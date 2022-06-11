@@ -1,0 +1,54 @@
+.rightbar {
+  flex: 3.5;
+}
+.birthdayText {
+  display: flex;
+  text-align: center;
+  margin-left: 20px;
+  font-weight: 300;
+  font-size: 15px;
+}
+
+.celebIcon {
+  margin-right: 10px;
+}
+
+.rightbarWrapper {
+  padding: 20px 20 0 0;
+}
+
+.bd {
+  cursor: pointer;
+  margin-right: 3px;
+  margin-left: 3px;
+}
+
+.ad {
+  width: 90%;
+  align-items: center;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 10px;
+  padding-top: 10px;
+}
+
+.rightbarFriendList {
+  padding: 0;
+  margin-top: 10px;
+  list-style: none;
+}
+
+.rightbarFriend {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.onlineIcon {
+  font-size: 13px !important;
+  color: limegreen;
+}
+
+.divide {
+  margin: 20px 30px;
+}

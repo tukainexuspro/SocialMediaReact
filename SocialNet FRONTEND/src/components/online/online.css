@@ -1,0 +1,15 @@
+.rightbarProfileImgContainer {
+  margin-right: 10px;
+  position: relative;
+  cursor: pointer;
+}
+
+.rightbarProfileImg {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.rightbarUserName {
+  cursor: pointer;
+}

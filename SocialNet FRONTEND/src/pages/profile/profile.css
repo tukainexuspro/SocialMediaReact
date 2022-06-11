@@ -1,0 +1,40 @@
+.profile {
+  display: flex;
+}
+
+.profileRight {
+  flex: 9;
+}
+
+.profileRightBottom {
+  display: flex;
+}
+
+.profileCoverImg {
+  padding-top: 50px;
+  width: 100%;
+  height: 200px;
+  border-radius: 10px;
+}
+
+.profileUserImg {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  position: relative;
+  left: 42%;
+  top: -100px;
+  border: 4px solid white;
+}
+
+.username {
+  position: relative;
+  left: 42%;
+  top: -90px;
+}
+
+.profileDesc {
+  margin-left: 30px;
+  position: relative;
+  top: -40px;
+}
